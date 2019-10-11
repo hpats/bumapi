@@ -1,0 +1,27 @@
+{
+  "name": "bumbleapi",
+  "version": "0.5.0",
+  "description": "Unofficial Bumble api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpats/bumapi"
+  },
+  "keywords": [
+    "bumble",
+    "api",
+    "dating",
+    "node",
+    "node.js",
+    "nodejs"
+  ],
+  "author": "hp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpats/bumapi/issues"
+  },
+  "homepage": "https://github.com/hpats/bumapi"
+}
