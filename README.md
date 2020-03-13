@@ -41,7 +41,7 @@ BumAPI.voteYestForEncounter(id).then(data => {})
 
 ## Contributing
 
-Please email konakia@gmail.com for more info.
+Please Discord konakia#0446 for more info.
 
 ## License
 
