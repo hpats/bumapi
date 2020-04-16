@@ -28,7 +28,7 @@ To submit a vote no BumAPI.voteNoForEncounter(id) where the id can be found in t
 
 To submit a vote yes BumAPI.voteYestForEncounter(id) where the id can be found in the response of BumAPI.getEncounters().
 
-# 3 functions are curenctly available
+# 5 functions are curenctly available
 ```
 BumAPI.getEncounters().then(data => {})
 ```
@@ -37,6 +37,12 @@ BumAPI.voteNoForEncounter(id).then(data => {})
 ```
 ```
 BumAPI.voteYestForEncounter(id).then(data => {})
+```
+```
+/*NEW*/ BumAPI.getMatchesList.then(data => {}) //returns the list of matches
+```
+```
+/*NEW*/ BumAPI.getMatchesDetails(id).then(data => {}) // passing the id of a match returns details about this match 
 ```
 
 ## Contributing
