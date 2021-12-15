@@ -1,3 +1,8 @@
+#*********************
+# Unforcuntley Bumble has changed the login process to just send a code to cell phone number instead of using a password.
+# This means that THIS APP DOESNT WORK ANYMORE. 
+# If anyone wants to be a contributor and update it Im open to that. 
+#*********************
 # Node.js bumble api
 
 Unofficial API for interacting with the dating app Bumble
